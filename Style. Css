@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jackson Tech Solutions</title>
-
-<style>
 *{
     margin:0;
     padding:0;
@@ -15,6 +7,7 @@
 
 body{
     line-height:1.6;
+    background:#f9f9f9;
 }
 
 /* Navbar */
@@ -132,59 +125,3 @@ footer{
     padding:20px;
     margin-top:40px;
 }
-</style>
-</head>
-
-<body>
-
-<!-- Navbar -->
-<nav>
-    <h2>Jackson Tech</h2>
-    <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-    </ul>
-</nav>
-
-<!-- Hero -->
-<section class="hero">
-    <div>
-        <h1>We Build Modern Business Websites</h1>
-        <p>Helping companies grow, attract customers, and succeed online.</p>
-        <button>Get Started</button>
-    </div>
-</section>
-
-<!-- Services -->
-<section class="services">
-    <h2>Our Services</h2>
-
-    <div class="service-box">
-
-        <div class="card">
-            <h3>Website Development</h3>
-            <p>Fast, responsive, and professional websites tailored for your business growth.</p>
-        </div>
-
-        <div class="card">
-            <h3>UI / UX Design</h3>
-            <p>Modern and attractive designs that improve customer engagement.</p>
-        </div>
-
-        <div class="card">
-            <h3>Website Maintenance</h3>
-            <p>Keeping your website secure, updated, and performing smoothly.</p>
-        </div>
-
-    </div>
-</section>
-
-<!-- Footer -->
-<footer>
-    <p>© 2026 Jackson Tech Solutions | All Rights Reserved</p>
-</footer>
-
-</body>
-</html>
